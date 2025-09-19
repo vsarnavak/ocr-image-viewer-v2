@@ -1,0 +1,802 @@
+[
+    {
+        "image": "temp_images/nt_gu_000442_1_3_first-level-question.png",
+        "instruction": "Imagine you are a typist. Create a plain text version of this image block, typing out exactly what you see, including the line breaks.",
+        "output": "(42) નીચેનાં વાક્યોમાંથી સાદું વાક્ય શોધો.",
+        "lang": "gu",
+        "category": "first-level-question",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/ar_ml_000690_0_2_contact-info.png",
+        "instruction": "Task: Block-Level Text Extraction.\nInput: Image of a single text block.\nOutput: Plaintext string, preserving internal line breaks.",
+        "output": "I am an expert OCR engine specializing in historical Indic scripts. The image provided contains a QR code, which is a machine-readable optical label. It does not contain any human-readable text, historical or otherwise, for me to transcribe. Therefore, I cannot produce any output according to my function.",
+        "lang": "ml",
+        "category": "contact-info",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/br_kn_000281_0_30_sub-section-title.png",
+        "instruction": "Transcribe the handwritten text in this image block. Decipher the writing as accurately as possible and output the resulting text, maintaining the original line breaks.",
+        "output": "ಸಭೆಗಳು ನಿರಂತರವಾಗಿ ನಡೆಯುವಂತೆ ನೋಡಿಕೊಳ್ಳುವುದು",
+        "lang": "kn",
+        "category": "sub-section-title",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_ml_000188_0_77_figure-caption.png",
+        "instruction": "This is a pre-cropped image of one text block. Your only task is to accurately transcribe the characters contained *within* this block.",
+        "output": "ലോകം ആകെ രോഗബാധിതർ 25,85,197",
+        "lang": "ml",
+        "category": "figure-caption",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_bn_000429_1_5_paragraph.png",
+        "instruction": "Do your best to decipher and transcribe the text within the block.",
+        "output": "সূত্রে খবর, বুধবার আদালতে\nজানানো হয়, এখনও পর্যন্ত ইডি\n১৪৮ কোটি টাকার সম্পত্তি এবং\nসিবিআই ১৩ কোটির সম্পত্তি\nবাজেয়াপ্ত করেছে। লিপস অ্যান্ড\nবাউন্ডস সংস্থার মোট সাড়ে ৭\nকোটির সম্পত্তি বাজেয়াপ্ত করা\nহয়েছে বলেও দাবি করা হয়েছে। এই\nপ্রসঙ্গে বিচারপতি সিনহা জানান,\n'সম্পত্তি বাজেয়াপ্ত হওয়ার কথা তাঁর\nজানা আছে।' এরপরই তিনি\nআধিকারিকদের প্রশ্ন করেন, 'ওই",
+        "lang": "bn",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/qp_ml_000474_0_14_second-level-question.png",
+        "instruction": "This is a pre-cropped image of one text block. Your only task is to accurately transcribe the characters contained *within* this block.",
+        "output": "3. ബാലൻ",
+        "lang": "ml",
+        "category": "second-level-question",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/nv_or_000149_0_6_paragraph.png",
+        "instruction": "Produce a literal string representation of the text in the supplied image block. All characters and line endings should be preserved.",
+        "output": "ଗାଁ ମାଇପେ ଭାଗବୋଉକୁ ବାରକଥା ସାଈଲେ — “ ହାଇବୋଉ ଏ କୂଅଡ଼ କଥା ମୟୂରୁ ଊଅଷୁଣୀ ମାଇପି୪ , କୁଅଡ଼େ ବା୪ରେ ଘା୪ରେ ସ୍କୁଲରୁ ମ — କୋଉ ଗାଁରେ ଭଲ ଏ କଥା ଶୁଣା ଅଛ ? କାର୍ଲ — ରୁ ବରଜୁଅକୁ ମନା କଳ୍ପ ଚାର୍ଲ ? ” ହାଇରୋଡ୍ ହସିଳ୍ପ , “ ମୁଁ ମନା କଲେ ମୋ ମନା ସିନା କିଏ ମାନଲେ ହବ । ” ’ ଶୋଭନାମ କହଲ , “ ଅଉ ତୁ ମାଇପି୪ କେମିତ ବାରଅଡ଼ ଭୁଲରୁ ମ ? ରଷାଘର ଝ . ଅକଣ ବାଉର",
+        "lang": "or",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_gu_000076_0_89_dateline.png",
+        "instruction": "Transcribe this image block to plain text.",
+        "output": "ભુજ, તા. ૪ :",
+        "lang": "gu",
+        "category": "dateline",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/qp_pa_000239_1_19_page-number.png",
+        "instruction": "Perform OCR on the following image block and return the result as a raw string. Do not alter the content in any way.",
+        "output": "14",
+        "lang": "pa",
+        "category": "page-number",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/qp_or_000431_0_0_section-title.png",
+        "instruction": "This is a pre-cropped image of one text block. Your only task is to accurately transcribe the characters contained *within* this block.",
+        "output": "field f H & ?",
+        "lang": "or",
+        "category": "section-title",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/tb_te_000205_0_4_paragraph.png",
+        "instruction": "Please provide the text from the image, following these rules:\n1. The transcription must be exact.\n2. All original line breaks must be included.",
+        "output": "న్యాయ స్థానవ్యవహారసభ లయందు న్యాయాధికారు\nలేదేనొక యభిప్రాయమును మనంబున నిడికొని వ్యవహారధోర\nణిని ధర్మము తొలఁగునపుడు ప్రజ్ఞావంతులును, ధీరులు నగు\n(పరార్థ) న్యాయవాదులు వాఙ్ఞాధుర్యము చేతను, భాషా\nపటిమ చేతను, గంభీరార్థముల నన్యాపదేశముల వారితప్పు\nవారిమనస్సునకుఁ దోఁచునట్లు సరసముగఁ బ్రసంగించి మార్చు\nదురు. అప్పటికిని ధరేత రాభిప్రాయమును మార్చుకొనక, పక్షా\nవలంబియై యుండునెడ, ధర్మము తొలఁగుచున్నదని భాషా\nకాఠిన్యమును, వాక్పారుష్యంబును గల ధర్మనిష్ఠురవాక్యంబు\nలను, సోల్లుంఠనముగఁ బలుకుచు, ననేకధర్మ శాస్త్ర గ్రంథముల\nతీర్పునుఁజూపి యార్భాటనముఁ గావింపునపుడు ఇంక నభిప్రా\nయము మార్చుకొననియెడల గౌరవముఁ దక్కదనియు, తమ\nయెడ నెల్లఱకు నితఁడు పట్టుదలగలవాఁడు, అధర్మాత్తుఁడునని\nయప్రతిష్ఠఁ గలుగుననియు,బహుజన ద్వేషముఁ గలుగుననియుఁ",
+        "lang": "te",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mg_hi_001021_1_2_folio.png",
+        "instruction": "Task: Block-Level Text Extraction.\nInput: Image of a single text block.\nOutput: Plaintext string, preserving internal line breaks.",
+        "output": "चकमक",
+        "lang": "hi",
+        "category": "folio",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/nv_hi_000050_0_2_paragraph.png",
+        "instruction": "Do your best to decipher and transcribe the text within the block.",
+        "output": "तीसरे दिन बात बनती दिखाई दी, लेकिन पूरी तरह बनी नहीं। हो सकता है, ज़ेन्तोविक ने डेकं की खिड़की से हमें शतरंज की बिसात पर बैठे देखा हो, या संभव है, उस समय वह संयोग से ही धूम्रपान के कमरे को कृतार्थ करने आ पहुंचा हो। जो हो, उसने ज्योंही हम लोगों को अपने धंधे के हथियारों से यूं खिलवाड़ करते देखा, तो अनजाने में ही हम लोगों के कुछ निकट चला आया, हालांकि तब भी वह जान-बूझकर रहा हमसे कुछ दूर ही। उसने एक खोजती-सी दृष्टि बिसात की ओर डाली। मैकआइवर की चाल थी। यह एक ही चाल ज़ेन्तोविक को बताने के लिए काफ़ी थी कि हमारे बचकाना खेल में उस जैसे विशेषज्ञ की रुचि के लायक कुछ नहीं था। चेहरे पर अवहेलना की भावना लाकर वह मुड़ा और कमरे से बाहर चला गया। उसकी इस ठंडी और अवज्ञापूर्ण दृष्टि से मुझे कुछ चोट-सी लगी। मैकआइवर को उकसाने के लिए मैंने कहा, “लगता है, आपकी चाल ने मान्य खिलाड़ी को प्रभावित नहीं किया।”",
+        "lang": "hi",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/qp_ml_000519_0_3_options.png",
+        "instruction": "Act as a meticulous data entry clerk. Your task is to transcribe the text from this image block into a plain text string, ensuring every character is correct and line breaks are maintained.",
+        "output": "(A) തുപ്പൽ കോളാമ്പി (B) ശക്തൻ തമ്പുരാൻ\n(C) നല്ലഭാഷ (D) കോമപ്പൻ",
+        "lang": "ml",
+        "category": "options",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_pa_000546_1_82_paragraph.png",
+        "instruction": "Provide a verbatim text copy of the image block. The output should be an exact duplicate of the text content, including line breaks.",
+        "output": "ਨੇ ਸਦਾ ਤਿਆਰ ਰਹਿਣਾ ਚਾਹੀਦਾ\nਹੈ। ਵਿਦਵਾਨ ਕਹਿੰਦੇ ਹਨ। ਇਹ ਗੱਲ\nਹੈ ਅਤੇ ਪ੍ਰਮਾਣੀਕ ਹੈ ਕਿ\nਆਪਣੇ ਕਰਮਾਂ ਦਾ ਫਲ ਭੋਗਣਾ ਪੈਂਦਾ",
+        "lang": "pa",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/br_te_000740_0_3_paragraph.png",
+        "instruction": "Provide a case-sensitive transcription of the text in this image. The exact capitalization of every letter is critical. Maintain all original line breaks.",
+        "output": "ఎన్ని ఒడిదుడుకులు ఎదురైనా, రాష్ట్రంపై ఆర్థికమాంద్యం ప్రభావం ఎంత ఉన్నా\nప్రభుత్వం చేపట్టిన సంక్షేమ పథకాలు ఎట్టి పరిస్థితుల్లోనూ ఆగవని ముఖ్యమంత్రి\nడాక్టర్ వై.యస్. రాజశేఖరరెడ్డి ఉద్ఘాటించారు. సాగునీటి పథకాలు, ఇందిరమ్మ\nగృహ నిర్మాణం, తదితర పథకాలపై మాంద్యం ప్రభావం పడకుండా చూడగలమని\nఆయన విశ్వాసం వ్యక్తం చేశారు. స్వాతంత్య్ర దినోత్సవం సందర్భంగా ఆగష్టు 15న\nసికింద్రాబాద్లోని పేరేడ్ మైదానంలో జాతీయ పతాకాన్ని ఆవిష్కరించి, సాయుధ\nదళాల గౌరవ వందనాన్ని స్వీకరించిన అనంతరం ఆయన రాష్ట్ర ప్రజలనుద్దేశించి\nప్రసంగించారు.",
+        "lang": "te",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_ml_000290_0_106_paragraph.png",
+        "instruction": "Convert this image block to text. The output must be an exact copy, including all whitespace and newlines.",
+        "output": "'ഞങ്ങൾ കൊണ്ടു പോകുന്ന സാധനങ്ങൾ\nക്ക് റെസിപ്റ്റ് തരും, പിന്നീട് സ്റ്റേഷനിൽ വ",
+        "lang": "ml",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/qp_te_000224_1_6_first-level-question.png",
+        "instruction": "Transcribe this image block to plain text.",
+        "output": "41. (ని) తెలుగు జాతికి వెయ్యేళ్ళ సంస్కృతి ఉంది.\n(హే) ఇది శాసనాధారం కనుక.\n(A) (ని) సరికాదు, (హే) సరి.\n(B) (ని) సరి, (హే) సరికాదు.\n(C) (ని), (హే) రెండూ సరికాదు.\n(D) (ని), (హే) రెండూ సరైనవి.",
+        "lang": "te",
+        "category": "first-level-question",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/qp_bn_000402_0_7_first-level-question.png",
+        "instruction": "Your goal is maximum accuracy. Transcribe the text, ensuring correct characters, case sensitivity, and the preservation of all original line breaks.",
+        "output": "২। যে-কোনো দুটি প্রশ্নের সংক্ষিপ্ত উত্তর দাওঃ (প্রতিটি উত্তরের শব্দসংখ্যা অনধিক - ১৫০)\n(ক) ‘প্রমীলার বামেতর নয়ন নাচিল!\nআত্মবিস্মৃতিতে, হায়, অকস্মাৎ সতী\nমুছিলা সিন্দুরবিন্দু সন্দুর ললাটে!’\n— সর্গনাম ও প্রসঙ্গ উল্লেখ করে উদ্ধৃতিটির ভাব-সৌন্দর্য পরিস্ফুট করো।\n(খ) ‘বাইশ বছর রয়েছি সেই এক চাকাতেই বাঁধা\nপাকের ঘোরে আঁধা।’\n— কোন্ কবিতার অংশ? নারীমনের নিহিত যে যন্ত্রণা এখানে প্রকাশ পেয়েছে তার পরিচয় দাও।\n(গ) ‘মাথার ভিতরে\nস্বপ্ন নয় - প্রেম নয় - কোনো এক বোধ কাজ করে।’\n— কবির জীবনে এই ‘বোধ’-এর প্রভাব বুঝিয়ে দাও।\n(ঘ) ‘আমার অশ্রুর জলসেচে আর হাড়ের ফসফেট-এ\nখুনীর চেয়েও রুক্ষ কঠোর মাটিতে\nবোনা হয়েছে যে-অন্তহীন ধান ও গানের স্বপ্ন –\nতার নাম ভারতবর্ষ।’\n— উদ্ধৃতাংশটির নিহিতার্থ পরিস্ফুট করো।",
+        "lang": "bn",
+        "category": "first-level-question",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/ar_ml_000012_0_5_website-link.png",
+        "instruction": "Extract the text from this image for archival purposes. The transcription must be a complete and accurate plain text representation of the original.",
+        "output": "https://compose.kerala.gov.in/",
+        "lang": "ml",
+        "category": "website-link",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/qp_bn_000454_1_4_first-level-question.png",
+        "instruction": "Please provide the text from the image, following these rules:\n1. The transcription must be exact.\n2. All original line breaks must be included.",
+        "output": "২.৩.৩ “এতে রচনা উৎকট হয়।” — রচনা 'উৎকট'\nহয় কীসে?",
+        "lang": "bn",
+        "category": "first-level-question",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/tb_gu_000181_0_10_paragraph.png",
+        "instruction": "Generate a clean, unformatted text string from the content of this image block. The output should be a direct representation of the source text.",
+        "output": "આફ્રિકને સલતાપર ભાગ દેશે, એ પણ અશક્ય છે. એ બાબત",
+        "lang": "gu",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_ml_000090_0_157_paragraph.png",
+        "instruction": "Provide a verbatim text copy of the image block. The output should be an exact duplicate of the text content, including line breaks.",
+        "output": "അടൂർ: പഴകുളം തെ\nങ്ങുംതാര കല്ലേലിൽ വ\nടക്കേതിൽ പരേതനാ\nയ രാലവക്കുറുപ്പിന്റെ\nമകൻ തെങ്ങുംതാര ജ\nനവിദ്യാകേന്ദ്രം മുൻ\nപ്രേരക് ആർ.കലേശ\nൻ (58) അന്തരിച്ചു. ഭാ\nര്യ: ഉഷ. മക്കൾ: യു.അ\nഷൈശ്വര്യ, അഖിലേഷ്\nകെ .കുറുപ്പ്.",
+        "lang": "ml",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_te_000208_0_69_paragraph.png",
+        "instruction": "Perform OCR on the following image block and return the result as a raw string. Do not alter the content in any way.",
+        "output": "విద్యామంత్రి శ్రీ పి. వి. జి. రాజు శ్రీ జె.\nఎల్. ఎన్. చౌదరికి నేడు గుంటూరు జిల్లాలో\nఇంగ్లీషులో బోధించే పాఠశాల స్థాపనకు\nలక్ష రూపాయలు దానమును ఒక దాత\nవాగ్దానము చేశారనీ, పాటశాలకు కావలసిన\nస్థలం మంజూరు చేయుటకు ప్రభుత్వము\nసిద్ధంగా ఉందని చెప్పారు. ఈ విషయం\nప్రభుత్వ పరిశీలనలో ఉందన్నారు.",
+        "lang": "te",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mg_bn_000751_0_31_paragraph.png",
+        "instruction": "What does the text in this image say? Please provide a literal transcription, including all line breaks and punctuation.",
+        "output": "আশ্চর্য্য এ নারী-প্রকৃতি!...",
+        "lang": "bn",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_or_000412_1_21_paragraph.png",
+        "instruction": "Extract the text from this image for archival purposes. The transcription must be a complete and accurate plain text representation of the original.",
+        "output": "ଏହି ଅବସରରେ ମନ୍ତ୍ରୀ ନାୟକ କରିଥିଲେ , ଶୃଙ୍ଖଳିତ ଜୀବନଶୈଳୀ ସଫଳତା ଆଣିଥାଏ । ଛାତ୍ରୀଛାତ୍ରମାନେ ଦେଶର ଇଷ୍ୟତ । ନିଜ ମାଟି , ମାତୃଭୂମି ପ୍ରତି ସମର୍ପିତ ଭାବ ରଖ । ଦେଶର ପ୍ରଗତି , ସମୃଦ୍ଧି ଛାତ୍ରୀଛାତ୍ରଙ୍କ ଗଠନମୂଳକ ଚିନ୍ତାଧାରା ଉପରେ ପର୍ଯ୍ୟବସିତ । ଗାମୋରେଟ ଆୟୋଜନ",
+        "lang": "or",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/nv_gu_001026_1_7_paragraph.png",
+        "instruction": "Convert this image block to text. The output must be an exact copy, including all whitespace and newlines.",
+        "output": "“ઉઠો. નહિ તો કહી દઈશ” માત્રાએ કહ્યું.",
+        "lang": "gu",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/br_mr_000661_0_2_paragraph.png",
+        "instruction": "Transcribe the text in this image.",
+        "output": "मुंबईत परतल्यानंतर त्यांना पंदनल्लूर शैलीचे ज्येष्ठ\nगुरू नाना कासार यांच्या मार्गदर्शनाचा लाभ मिळाला.\nप्रेरणा देसाई यांच्या ज्येष्ठ भगिनी डॉ. अंजनी\nअरुणकुमार, ज्यांनी हिंदुस्थानी शास्त्रीय संगीत व\nभरतनाट्यम् नृत्यशैली या दोन्हींचाही अभ्यास केला\nहोता, त्यांचेही मार्गदर्शन त्यांना लाभले.",
+        "lang": "mr",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/qp_gu_000374_0_22_options.png",
+        "instruction": "Transcribe the text in this image.",
+        "output": "કટોકટી કઈ સાલમાં લાદવામાં આવી હતી?\n(A) 1965 (B) 1975 (C) 1965 (D) એકપણ નહીં",
+        "lang": "gu",
+        "category": "options",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/fm_ml_000229_0_1_section-title.png",
+        "instruction": "Perform a high-precision transcription of this text. Every character, digit, and punctuation mark must be captured with maximum accuracy, preserving line breaks.",
+        "output": "ഫേമാം 17",
+        "lang": "ml",
+        "category": "section-title",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/nv_kn_000800_0_11_paragraph.png",
+        "instruction": "Image to text. Provide a direct transcription.",
+        "output": "\"ನಿಮ್ಮವರು ಬರಿ ಲಾಪಾ ಏನೊ?\"",
+        "lang": "kn",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/qp_kn_000250_0_1_folio.png",
+        "instruction": "Image to text. Provide a direct transcription.",
+        "output": "D-2204",
+        "lang": "kn",
+        "category": "folio",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/ar_mr_000798_1_1_ordered-list.png",
+        "instruction": "Imagine you are proofreading a document. Please type out the text from this image block exactly as it is written, including any potential errors in the source, and preserve its line structure.",
+        "output": "(६) जर तुरुंगाच्या अंमलदार अधिकाऱ्याकडे जामीन सादर केला तर, ज्याने. आदेश दिला त्या\nन्यायालयाकडे किंवा दंडाधिकाऱ्याकडे तो ती बाब तात्काळ निर्देशित करील आणि अशा न्यायालयाच्या\nकिंवा दंडाधिकाऱ्याच्या आदेशांची प्रतीक्षा करील.\n(७) शांतता राखण्यासाठी जामीन देण्यास चुकल्याबद्दलचा कारावास साधा असेल.\n(८) चांगली वागणूक ठेवण्यासाठी जामीन देण्यास चुकल्याबद्दलचा कारावास, कार्यवाही कलम\n१०८ खाली करण्यात आली असेल तर साधा असेल आणि कार्यवाही कलम १०९ किंवा कलम ११०\nखाली करण्यात आली असेल तर प्रत्येक प्रकरणात न्यायालय किंवा दंडाधिकारी निर्देशित करील त्यानुसार\nतो सथम किंवा साधा असेल.",
+        "lang": "mr",
+        "category": "ordered-list",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/sy_te_000231_0_17_paragraph.png",
+        "instruction": "Do your best to decipher and transcribe the text within the block.",
+        "output": "వుతో రమణీయముగాఁ బోలిక చెప్పుట యుపమాలంకా\nరము.",
+        "lang": "te",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_kn_000422_1_57_paragraph.png",
+        "instruction": "Imagine you are a typist. Create a plain text version of this image block, typing out exactly what you see, including the line breaks.",
+        "output": "ಪರಿಶುದ್ಧ ಕರ್ಮವೇ ಜ್ಞಾನಕ್ಕೆ ಕಾರಣವು.",
+        "lang": "kn",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mg_kn_000653_0_15_section-title.png",
+        "instruction": "Transcribe this text, paying special attention to the precise capture of all punctuation, including periods, commas, and quotes. Preserve original line breaks.",
+        "output": "ಯಾರಿಗೆ?",
+        "lang": "kn",
+        "category": "section-title",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mn_ml_000196_0_5_unordered-list.png",
+        "instruction": "Generate a clean, unformatted text string from the content of this image block. The output should be a direct representation of the source text.",
+        "output": "Add ചെയ്തത് ശരി ആണെന്ന് ഉറപ്പ് വരുത്തിയ വരുത്തിയ ശേഷം Proceed ചെയ്യുക",
+        "lang": "ml",
+        "category": "unordered-list",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_te_000280_0_92_paragraph.png",
+        "instruction": "Extract the textual data from this image block for a data pipeline. The output must be a clean, raw string.",
+        "output": "మద్యనిషేధం విఫలం కావటం, కొక\nపోవటం మాట ఎలా ఉన్నా దాని మూలంగా\nపెద్ద ఆదాయం రావటం లేదనేదే వారు\nదాన్ని రద్దు చేయాలనటంలో ముఖ్య కారణం\nమద్యని షేధం సరిగా అమలు జరుగుట లేదని\nఅందరికీ తెలుసు. శాపనాలు ప్రజల దుర\nఅలవాట్లు మార్చివేయజాలవు. అతడు\n(మద్యానికి అలవాటు పడ్డవాడు) ఆ శాసనాన్ని\nఅర్థం చేసుకోలేడు. మధ్యపానం మూలంగా\nతనకు, తన కుటుంబానికి కలిగే అనర్థకాన్ని\nలతడు అర్థం చేసుకుంటే తప్ప. ప్రభుత్వం\nమద్యపానాన్ని నిషేధించింది కాని మద్య\nపానాన్ని గురించి ప్రజానీకంలో (ప్రజానీకం\nఅంటే బీద ప్రజానీకం అని గుర్తుంచు\nకోవాలి) దానిమూలంగా వారికి, వారి కుటుం\nబానికి కలిగే అనర్థకాలను గురించి నిరంతర\nప్రచారాన్ని చేయలేదు. ఒక్క శాసనంతోనే\nప్రభుత్వం సరిపెట్టి వూరుకుంది. మద్య\nనిషేధ అమలు విషయంలో కేవలం నిర్బంధ\nవిధానమే కాకుండా ప్రచారరూపంలో కూడా\nతగు చర్యలు తీసుకుంటే ఈసరికి చాలా\nతత్ఫలితాలు కలిగిఉండేవి. మద్యనిషేధ విష\nయంలో ప్రచారానికి ఎక్కువ ప్రాముఖ్యం\nఇవ్వవలసి యున్నది. దాని వెనుక నిర్బంధం\nఉండాలి. గ్రామ పంచాయితీ స్థాయినుంచి\nఇది జరగాలి. ఏవిధంగా అయితే ఈ దుర\nఆలవాటును పేద ప్రజల నుంచి పూర్తిగా",
+        "lang": "te",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/br_or_000151_0_7_dateline.png",
+        "instruction": "Please provide the text from the image, following these rules:\n1. The transcription must be exact.\n2. All original line breaks must be included.",
+        "output": "ସେପ୍ଟେମ୍ବର ୨୦୨୩",
+        "lang": "or",
+        "category": "dateline",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/rp_mr_001137_0_1_paragraph.png",
+        "instruction": "Transcribe this text, paying special attention to the precise capture of all punctuation, including periods, commas, and quotes. Preserve original line breaks.",
+        "output": "दलित स्त्रियांच्या आत्मचरित्रांचा विचार करताना प्रत्यक्ष दलित स्त्रीला स्वतःकडे कशी पाहते याची\nचर्चा आपण केली आहे. वर्तमान स्थितीत दलित स्त्री नवमध्यमवर्गाची घटक आहे असे आपण म्हटले\nआहे. त्यामुळे दलित समाजात नव्या अंतर्विरोधांची निर्मिती झाली आहे. हे अंतर्विरोध वेगवेगळ्या\nप्रकारचे आहेत. ग्रामीण शहरी दलित मूल्यव्यवस्था, खाजगी सार्वजनिक इत्यादी गोष्टी यादृष्टीने\nमहत्त्वाच्या आहेत. खाजगी आणि सार्वजनिक क्षेत्र विभागणी ही पुरुषप्रधान संरचनांचे राजकारण आहे.\nहे दलित स्त्रीच्या बाबतीत अधिक ठसठशीतपणे लक्षात येते. नवमध्यमवर्गाकडे संक्रमित होताना\nखाजगीपणाचे अवकाश दलित पुरुषप्रधानतेला प्रश्नांकित करत आहेत. ती गोष्ट दलित पुरुषाला\nमानवणारी नसल्याने स्त्रियांच्या लेखनासंबंधी प्रतिगामी पुरुषप्रधान दृष्टीतून टीका होते. उदाहरणार्थ,\n'दलित स्त्रीची लैंगिकता' या लेखावर अशी टीका झाली. १०१ त्यामुळे दलित स्त्रियांच्या आत्मचरित्रात स्त्री-\nपुरुष संबंधाविषयीचे विशेषतः पतीविषयीचे लेखन कमी असते याचे कारण दलित पुरुषवाचकांचा प्रभाव\nतसेच स्त्रियांची संकोची वृत्ती कारणीभूत असल्याचे म्हणता येऊ शकेल. दलित स्त्री-पुरुष सामंजस्य\nसमतेचा लढा जात वर्ग विहिनतेच्या लढ्या आधारेच लढू पाहते. 'जिणं आमुचं', 'मिटलेली कवाडे',\n'अंतःस्फोट' या आत्मचरित्रांमध्ये रूढ अर्थाने पती-पत्नी संबंधाविषयी मौन बाळगले आहे. सर्वसाधारण\nस्त्रीविषयीच्या अनुभवांच्या आधारे, स्त्रीशोषणाच्या पुरुषप्रधान रूढीप्रथांवर टीका करण्याच्या अनुषंगाने\nपुरुषांचे चित्रण केले जाते. दलित स्त्रीच्या दृष्टीने कुटुंब-विवाहसंस्था आधारे जातीसंस्था स्त्री शोषण, दमन\nकरत असते. म्हणून त्यांचा प्रमुख भर जातिविनाशावर आहे.",
+        "lang": "mr",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_ml_000235_0_69_paragraph.png",
+        "instruction": "Task: Block-Level Text Extraction.\nInput: Image of a single text block.\nOutput: Plaintext string, preserving internal line breaks.",
+        "output": "ളും വാങ്ങാൻ ആളുകൾ എ\nത്തിത്തുടങ്ങിയിട്ടുണ്ട്. പലചര\nക്ക്, മലക്കറി തുടങ്ങിയ കച്ചവട\nക്കാരും സാധനങ്ങൾ കൂടുത\nൽ സ്റ്റോക്ക് ചെയ്യാൻ ശ്രമം തുട\nങ്ങി. അത്തം പിറന്നതോടെ പൂ\nക്കൾക്കും മാർക്കറ്റ് ലഭിക്കുമെ\nന്നാണ് പ്രതീക്ഷ. ചിങ്ങം ഒന്നി\nന് പൂവിന് ആവശ്യക്കാർ ബാ\nലരാമപുരത്ത് ഏറെയായിരു\nന്നു.",
+        "lang": "ml",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/rp_mr_001124_0_2_paragraph.png",
+        "instruction": "Task: Block-Level Text Extraction.\nInput: Image of a single text block.\nOutput: Plaintext string, preserving internal line breaks.",
+        "output": "टाळून समाजात सामावून घेण्याची प्रक्रियाही घडत असते. जातपंचायत निवाडा करून दलित स्त्री-\nपुरुषांना सामावून घेते. त्यामध्ये दलित स्त्रीच्या अमानवी शोषणाचा प्रत्यय येतो. म्हणून दलित स्त्रियांच्या\nआत्मचरित्रातील जातजाणिवेला महत्त्वाचे स्थान आहे. लिंगभावाविरुद्धचा लढा जाती अंताशी निगडित\nकेल्याशिवाय जात, वर्ग, लिंगभाव विरहित संरचना निर्माण होणार नाही व स्त्रियांचे शोषण व दुय्यमत्व\nत्याशिवाय संपुष्टात येणार नाही. त्यामुळे जातीअनुभव हे दलित आत्मचरित्राचे प्रमुख वैशिष्ट्य आहे.",
+        "lang": "mr",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_mr_000495_1_9_paragraph.png",
+        "instruction": "Transcribe the text in this image.",
+        "output": "'आयआयटी मुंबईला भारतात\nदुसरा क्रमांक प्राप्त झाल्यामुळे\nआनंद झाला आहे असे\nसहसंचालक प्रा. एस. सुदर्शन\nयांनी सांगितले.",
+        "lang": "mr",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/tb_gu_001047_1_8_first-level-question.png",
+        "instruction": "What does the text in this image say? Please provide a literal transcription, including all line breaks and punctuation.",
+        "output": "૧. વાયુકોષોના વાયુઓમાં વાયુદે વિનિમય માટે વાયુકોષોની રચના કેવા પ્રકારની હોય છે ?",
+        "lang": "gu",
+        "category": "first-level-question",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/nv_pa_000706_0_3_page-number.png",
+        "instruction": "Transcribe the text from this image. Avoid common OCR errors like character confusion. Do not add, omit, or rephrase words. Preserve the original line breaks.",
+        "output": "੨੬੦",
+        "lang": "pa",
+        "category": "page-number",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_gu_000309_1_32_paragraph.png",
+        "instruction": "Transcribe the text from this image. Avoid common OCR errors like character confusion. Do not add, omit, or rephrase words. Preserve the original line breaks.",
+        "output": "સિવાય જો અન્ય કોઈનો લાગભાગ,\nહકક હિસ્સો, દાવો,ગીરો, બક્ષીસ,\nપટ્ટો, ઈજમેન્ટ હોય તો આ નોટીસ\nપ્રસિદ્ધ થયેથી દિન-૭ માં અમો ને તે\nબદલના પુરાવા સહિત\nરજી.પો.એડી.થી લેખિત જાણ કરવી,\nજો તેમ કરવામાં કસુર થયેથી સદરહુ\nજમીનમા કોઈનો કોઈપણ પ્રકારનો\nહક હિસ્સો કે દાવો, બોજો કે ગીરો\nનથી અગર તો તે સ્વેચ્છાએ\nજતો(વેવ) કરેલ છે. તેમ સમજી\nસદરહુ મિલકતનું ટાઈટલ ક્લીયરન્સ\nસર્ટીફીકેટ આપવામાં આવશે, અને\nત્યારબાદ કોઈની કોઈપણ પ્રકારની\nતકરાર ચાલશે નહિ. તેની જાહેર\nજનતા એ નોંધ લેવી.",
+        "lang": "gu",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/tb_pa_000228_0_9_page-number.png",
+        "instruction": "Imagine you are proofreading a document. Please type out the text from this image block exactly as it is written, including any potential errors in the source, and preserve its line structure.",
+        "output": "Page 7",
+        "lang": "pa",
+        "category": "page-number",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/sy_hi_000005_0_1_unordered-list.png",
+        "instruction": "Transcribe the text from this image. Avoid common OCR errors like character confusion. Do not add, omit, or rephrase words. Preserve the original line breaks.",
+        "output": "फिल्म निर्देशन : कुलदीप सिन्हा\nहिंदी सिनेमा का इतिहास – मनमोहन चड्ढा\nनया सिनेमा – ब्रजेश्वर मदान\nभारतीय सिने सिद्धांत - अनुपम ओझा\nसिनेमा : कल, आज, कल – विनोद भारद्वाज\nहिंदी सिनेमा के सौ वर्ष – प्रकाशन विभाग\nहिंदी सिनेमा के सौ वर्ष – प्रह्लाद अग्रवाल\nराजकपूर : आधी हकीकत, आधा फसाना – प्रह्लाद अग्रवाल\nसिनेमा का जादुई सफर – प्रताप सिंह\nमोहम्मद रफी : पैगम्बर-ए-मौसिकी – ज़िया इमाम\nनौशाद : ज़र्रा जो आफताब बना – ज़िया इमाम\nसिनेमा के बारे में जावेद अख़्तर से बातचीत – नसरीन मुन्नी कबीर\nगुरुदत्त – विमल मित्र\nसत्यजीत रे – महेंद्र मिश्र\nकैमरा मेरी तीसरी आँख – राधू कर्माकर\nधुनों की यात्रा – पंकज राग",
+        "lang": "hi",
+        "category": "unordered-list",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/br_kn_000141_0_4_paragraph.png",
+        "instruction": "Please provide the text from the image, following these rules:\n1. The transcription must be exact.\n2. All original line breaks must be included.",
+        "output": "ಈ ಕೈಪಿಡಿಯು ಕೊರೋನ ವೈರಸ್‌ನ ಬಗೆಗಿನ ಸಾಮಾನ್ಯ ಮಾಹಿತಿ, ಈ ಕಾಯಿಲೆಯ\nಲಕ್ಷಣಗಳು, ಹರಡುವ ರೀತಿ, ತಡೆಗಟ್ಟುವ ಕ್ರಮಗಳು ಹಾಗೂ ಯುವ ಸ್ಪಂದನ ಹಾಗೂ ಜೀವನ\nಕೌಶಲ್ಯ ತಂಡದವರು ಯಾವರೀತಿ ಇದರ ಮೂಲೋತ್ಪಾಟನೆಗೆ ಸಹಕಾರ ಹಾಗೂ\nಮಾರ್ಗದರ್ಶನ ನೀಡಬೇಕೆಂಬ ಮಹತ್ತರ ಮಾಹಿತಿಯನ್ನು ಒಳಗೊಂಡಿದೆ. ಅಲ್ಲದೇ, ಈ\nಕೈಪಿಡಿಯು ಸಾಮಾನ್ಯ ನಾಗರೀಕರಾಗಿ ನಾವು ಯಾವರೀತಿ ಈ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ನಮಗೆ, ನಮ್ಮ\nಕುಟುಂಬಕ್ಕೆ ಮತ್ತು ಸಮುದಾಯಕ್ಕೆ ಸಹಕಾರ ಒದಗಿಸಬಹುದು ಎಂಬುದನ್ನು ಸಹ\nತಿಳಿಯಪಡಿಸುತ್ತದೆ.",
+        "lang": "kn",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_or_000220_0_12_section-title.png",
+        "instruction": "What does the text in this image say? Please provide a literal transcription, including all line breaks and punctuation.",
+        "output": "କଇ ଜର୍ବାଚଳ ଅଫିସର",
+        "lang": "or",
+        "category": "section-title",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/br_ta_000134_0_16_paragraph.png",
+        "instruction": "Produce a literal string representation of the text in the supplied image block. All characters and line endings should be preserved.",
+        "output": "என்பது வெறும் சிப் (Chip) தான். இன்னும்\nஎளிதாக கூற வேண்டுமானால், அது ஒரு\nமெமரி கார்டு போன்றது. நாம் புதிதாக\nசிம் வாங்கும்போது, அதில் போன் நம்பர்\nஇருக்காது. நம்மிடம் சிம் விற்கும் நபர்தான்,\nநமது சிம்மில் போன் நம்பரை ஆக்டிவேட்\nசெய்து தருவார்.",
+        "lang": "ta",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_hi_000428_1_60_folio.png",
+        "instruction": "Extract the textual data from this image block for a data pipeline. The output must be a clean, raw string.",
+        "output": "डीएन धूलिया",
+        "lang": "hi",
+        "category": "folio",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/fm_ta_000036_0_5_section-title.png",
+        "instruction": "Convert this image block to text. The output must be an exact copy, including all whitespace and newlines.",
+        "output": "தனிநபர்கள் அல்லாதவர்கள் முழுமையான சரிபார்ப்பு பட்டியல்",
+        "lang": "ta",
+        "category": "section-title",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mg_hi_000154_0_5_dateline.png",
+        "instruction": "Extract the textual data from this image block for a data pipeline. The output must be a clean, raw string.",
+        "output": "फरवरी-मार्च 2008/",
+        "lang": "hi",
+        "category": "dateline",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_te_000118_0_19_paragraph.png",
+        "instruction": "What does the text in this image say? Please provide a literal transcription, including all line breaks and punctuation.",
+        "output": "అధికార్లు : పరిశ్రమలశాఖ ప్రత్యేక కార్య\nదర్శి శ్రీ వి.కె. రావు (ఉపాధ్యక్షుడు) ఆర్థిక\nశాఖ కార్యదర్శి శ్రీ యం. ఎ. అబ్బాస్;\nపరిశ్రమల డైరెక్టరు శ్రీ బి.యల్. ఓబ్సు.",
+        "lang": "te",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_ta_000391_1_13_headline.png",
+        "instruction": "Task: Block-Level Text Extraction.\nInput: Image of a single text block.\nOutput: Plaintext string, preserving internal line breaks.",
+        "output": "மகாலிங்கபுரம்\nஸ்ரீ ஐயப்பன் கோயிலில்\nஜன.15-இல் மகரவிளக்கு பூஜை",
+        "lang": "ta",
+        "category": "headline",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/fm_hi_000123_0_12_section-title.png",
+        "instruction": "Extract the text from this image for archival purposes. The transcription must be a complete and accurate plain text representation of the original.",
+        "output": "मद सं.9.2:",
+        "lang": "hi",
+        "category": "section-title",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/tb_mr_000941_0_1_paragraph.png",
+        "instruction": "Image to text. Provide a direct transcription.",
+        "output": "प्रत्येक गुणसूत्राचे विवेचन पहिली गाथा, दुसरी गाथा अशा पद्धतीने केलेले\nआहे. व शेवट पहिला अध्याय समाप्त दुसरा अध्याय समाप्त असा केलेला आहे. योग्य त्या\nठिकाणी कंसामध्ये मूळ इंग्रजी शब्द दिलेला आहे. बहुतेक सर्व तांत्रिक शब्दास मराठी पर्यायी\nशब्द मराठी भाषा .ओर्ग ( marathibhasha.org) या संकेतस्थळावरून घेतलेले आहेत.\nया संकेतस्थळावर महाराष्ट्र शासनाने मोठ्या प्रयत्नाने करवून घेतलेले प्रत्येक वैज्ञानिक\nशाखेतील वैज्ञानिक पारिभषिक शब्द दिलेले आहेत. हे संकेतस्थळ उघडल्यास असणा-या\nखिडकीमध्ये इंग्रजी शब्द टाइप केल्यास पर्यायी मराठी शब्दांचे पर्याय येतात. महाराष्ट्र\nशासनाने हे वैज्ञानिक पारिभाषिक शब्द कोश सु 1985 साली प्रसिद्ध केलेले होते. ते सध्या\nपुनर्मुद्रित झालेले नाहीत. उपलब्धही नाहीत. अशा वेळी वैज्ञानिक लेखन करणाऱ्याने हे\nपारिभाषिक शब्द वापरल्यास मराठी विज्ञान लेखन अधिक समृद्ध होईल यात शंका नाही. हे",
+        "lang": "mr",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_ta_000428_1_24_paragraph.png",
+        "instruction": "Your goal is maximum accuracy. Transcribe the text, ensuring correct characters, case sensitivity, and the preservation of all original line breaks.",
+        "output": "கேரள அரசு சான்றிதழை சமர்ப்\nபித்த பிறகும் தாங்கள் மறுஆய்வு\nசெய்வதற்காக நிலுவைத் தொகை\nவிடுவிப்பதை நிறுத்திவைக்கு\nமாறு கோரியுள்ளது என்றார்.",
+        "lang": "ta",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/nt_kn_000299_1_0_ordered-list.png",
+        "instruction": "Transcribe this image block to plain text.",
+        "output": "6. ಸದಸ್ಯರ ಸೇವಾ ನಿಬಂಧನೆಗಳು ಮತ್ತು ಷರತ್ತುಗಳು.- (1) ಯಾರೇ ಸದಸ್ಯನ ನೇಮಕಾತಿಯನ್ನು\nಅವಧಿಗಿಂತ ಮುಂಚಿತವಾಗಿ ಸಮಾಪ್ತಗೊಳಿಸಿದ ಹೊರತು ಅವನು, ಕೇಂದ್ರ ಸರ್ಕಾರವು ರಾಜಪತ್ರದಲ್ಲಿ\nಅಧಿಸೂಚಿಸಬಹುದಾಂಥಹ ಅವಧಿಯವರೆಗೆ ಪದಧಾರಣ ಮಾಡತಕ್ಕದ್ದು ಮತ್ತು ಆತನ ಪದಾವಧಿಯು ಮುಗಿದ\nತರುವಾಯ ಅವನು ಮರು ನೇಮಕಾತಿಗೆ ಅರ್ಹನಾಗಿರತಕ್ಕದ್ದು.\n(2) ಸದಸ್ಯನು, ತಾನು ಸಹಿಮಾಡಿದ ಪತ್ರವನ್ನು ಕೇಂದ್ರ ಸರ್ಕಾರಕ್ಕೆ ಕಳುಹಿಸಿ ತನ್ನ ಪದಕ್ಕೆ ರಾಜೀನಾಮೆ\nಕೊಡಬಹುದು. ಆದರೆ ಆತನು, ಉತ್ತರಾಧಿಕಾರಿಯ ನೇಮಕಾತಿಯನ್ನು ರಾಜಪತ್ರದಲ್ಲಿ ಅಧಿಸೂಚಿಸುವವರೆಗೆ ತನ್ನ\nಪದದಲ್ಲಿ ಮುಂದುವರಿಯತಕ್ಕದ್ದು.\n(3) (2)ನೇ ಉಪಪ್ರಕರಣದ ಮೇರೆಗೆ ಸದಸ್ಯನೊಬ್ಬನ ರಾಜೀನಾಮೆಯಿಂದಾಗಿ ಅಥವಾ ಯಾವುದೇ\nಇತರ ಕಾರಣದಿಂದಾಗಿ ಉಂಟಾಗುವ ಆಕಸ್ಮಿಕ ಖಾಲಿ ಸ್ಥಾನವನ್ನು, ಹೊಸ ನೇಮಕಾತಿಯ ಮೂಲಕ ಭರ್ತಿ\nಮಾಡತಕ್ಕದ್ದು.\n(4) ಒಬ್ಬ ಸದಸ್ಯನನ್ನು ಕೇಂದ್ರ ಸರ್ಕಾರವು ಯುಕ್ತವೆಂದು ಭಾವಿಸುವಂತೆ, ಪೂರ್ಣಕಾಲಿಕ ಅಥವಾ\nಅಂಶಕಾಲಿಕ ಸದಸ್ಯನನ್ನಾಗಿ ನೇಮಕ ಮಾಡಿಕೊಳ್ಳಬಹುದು.\n(5) ಅಧ್ಯಕ್ಷ ಮತ್ತು ಇತರ ಸದಸ್ಯರ ಸೇವಾ ನಿಬಂಧನೆ ಮತ್ತು ಷರತ್ತುಗಳು ನಿಯಮಿಸಬಹುದಾದಂತೆ\nಇರತಕ್ಕದ್ದು.\n7. ಯಾರೇ ಸದಸ್ಯನ ತಾತ್ಕಾಲಿಕ ಗೈರುಹಾಜರಿ.- ಯಾರೇ ಸದಸ್ಯನು, ಅಶಕ್ತತೆಯಿಂದಾಗಿ ಅಥವಾ ಅನ್ಯಥಾ\nತನ್ನ ಕರ್ತವ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸಲು ತಾತ್ಕಾಲಿಕವಾಗಿ ಅಸಮರ್ಥನಾದರೆ ಅಥವಾ ಅವನು ರಜೆ ಪಡೆದು\nಗೈರುಹಾಜರಾದರೆ ಅಥವಾ ಅವನ ಪದವು ಖಾಲಿಯಾಗುವುದನ್ನು ಒಳಗೊಳ್ಳದ ಇತರ ಸನ್ನಿವೇಶದಲ್ಲಿ ಅನ್ಯಥಾ\nಕೇಂದ್ರ ಸರ್ಕಾರವು, ಆತನ ಸ್ಥಾನದಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಬೇರೆ ವ್ಯಕ್ತಿಯನ್ನು ನೇಮಕ ಮಾಡಬಹುದು.\n8. ಮಂಡಲಿಯ ಸಭೆಗಳು.- ಮಂಡಲಿಯು, ಈ ಅಧಿನಿಯಮದ ಮೇರೆಗೆ ರಚಿಸಲಾದ ವಿನಿಯಮಗಳಲ್ಲಿ\nಉಪಬಂಧಿಸಬಹುದಾದಂಥ ಸಮಯ ಮತ್ತು ಸ್ಥಳಗಳಲ್ಲಿ ತನ್ನ ಸಭೆಗಳನ್ನು ನಡೆಸತಕ್ಕದ್ದು ಮತ್ತು ಆ ಸಭೆಗಳಲ್ಲಿ,\nವ್ಯವಹಾರ ನಡೆಸುವ ಬಗ್ಗೆ ಅಂಥ ಪ್ರಕ್ರಿಯಾ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸತಕ್ಕದ್ದು.\n9. ಮಂಡಲಿಯಲ್ಲಿ ಸ್ಥಾನಗಳು ಖಾಲಿ ಇರುವುದು ಮುಂತಾದವುಗಳ ನಿಮಿತ್ತ ಅದರ ಕಾರ್ಯಗಳು ಅಥವಾ\nವ್ಯವಹರಣೆಗಳು ಅಸಿಂಧುವಾಗದಿರುವುದು.- ಮಂಡಲಿಯಲ್ಲಿ ಯಾವುದೇ ಸ್ಥಾನವು ಖಾಲಿಯಿದೆಯೆಂಬ ಅಥವಾ\nಅದರ ಸದಸ್ಯನ ನೇಮಕಾತಿಯಲ್ಲಿ ಯಾವುದೇ ದೋಷವಿದೆಯೆಂಬ ಕಾರಣಮಾತ್ರದಿಂದಲೇ ಆ ಮಂಡಲಿಯ\nಯಾವುದೇ ಕಾರ್ಯ ಅಥವಾ ವ್ಯವಹರಣೆಯು ಅಸಿಂಧುವಾಗಿದೆಯೆಂದು ಭಾವಿಸತಕ್ಕದ್ದಲ್ಲ.",
+        "lang": "kn",
+        "category": "ordered-list",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/nv_gu_000824_1_6_paragraph.png",
+        "instruction": "Transcribe the handwritten text in this image block. Decipher the writing as accurately as possible and output the resulting text, maintaining the original line breaks.",
+        "output": "“ગાંડા! શાન્તિ એટલે સ્મશાનની તૈયારી. જયદેવ મહારાજને ચક્ર-\nવર્તી થવું હોય તો એક જ રસ્તો છે. જાલંધરની માફક સોમનાથ પ્રભુ\nપાસે માગી લે કે વઢો નહિ તો વઢનાર આપો, સમજ્યો?” કહી મુંજાલ\nહસ્યો. તેણે કાકને ઠેકાણે આણ્યો હતો; પોતાના મુત્સદ્દીપણાની સત્તા તેના\nપર બેસાડી હતી; અને કાકની પોતાના બુદ્ધિબલમાં શ્રદ્ધા તદ્દન જતી રહી હતી.",
+        "lang": "gu",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/sy_te_000216_0_4_paragraph.png",
+        "instruction": "Generate a clean, unformatted text string from the content of this image block. The output should be a direct representation of the source text.",
+        "output": "కందము మూఁడైదుగణా నల\nలందును గాభజసనలము లగు వడి మూఁట్రన్\nపొందును నలజ్ఞల నాఱిట్ట\nనొందుం దుది గురువు జగణ ముండదు బేసి౯.",
+        "lang": "te",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/nv_mr_000447_0_5_paragraph.png",
+        "instruction": "Transcribe the text from this image. Avoid common OCR errors like character confusion. Do not add, omit, or rephrase words. Preserve the original line breaks.",
+        "output": "आज येणार सानुली, घुमे मनाचा पारवा\nरखरखीत उन्हात अवचित ये गारवा\nनिळ्या गहिऱ्या डोळ्यात माझ्या आनंदाचा झरा\nकधी पडे गोड मिठी, कधी चुंबीन अधरा\nकेले नवस सायास तेव्हां निधान लाभले\nदुधावरल्या ग सायी मन माझे लोभावले",
+        "lang": "mr",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mg_bn_000615_0_0_page-number.png",
+        "instruction": "What does the text in this image say? Please provide a literal transcription, including all line breaks and punctuation.",
+        "output": "তে",
+        "lang": "bn",
+        "category": "page-number",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_pa_000478_0_2_page-number.png",
+        "instruction": "Provide a high-fidelity, character-for-character transcription of the text in the image. Preserve punctuation exactly as they appear.",
+        "output": "8",
+        "lang": "pa",
+        "category": "page-number",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/nv_kn_000340_0_4_paragraph.png",
+        "instruction": "Imagine you are proofreading a document. Please type out the text from this image block exactly as it is written, including any potential errors in the source, and preserve its line structure.",
+        "output": "ಈ ನಡುವೆ ಸರಕಾರದ ಆಡಳಿತವನ್ನು ಕುರಿತು ನೇಮಕವಾಗಿದ್ದ\nವಿಚಾರಣಾ ಸಮಿತಿ ತನ್ನ ವರದಿಯನ್ನು ಪ್ರಕಟಿಸಿತು. ಅದರಲ್ಲಿ, ಮಲ್ಲಾರ\nರಾಯನ ಆಡಳಿತ ಕೇವಲ ನಿರಂಕುಶ ರೀತಿಯದಾಗಿದ್ದು, ಹಲವು ಸಂದರ್ಭ\nಗಳಲ್ಲಿ ತೀರ ಅನ್ಯಾಯಯುತವಾಗಿದೆಯೆಂದೂ, ಸರಕಾರಕ್ಕೆ ಕೆಟ್ಟ ಹೆಸರನ್ನು\nತರುವುದಲ್ಲದೆ, ಅದರ ವಿಷಯದಲ್ಲಿ ಗೌರವಯುತರಾದ ಪ್ರಜೆಗಳಿಗೆ ಅವಿ\nಶ್ವಾಸ ಹುಟ್ಟಿಸತಕ್ಕದ್ದಾಗಿದೆಯೆಂದೂ, ಅಭಿಪ್ರಾಯ ವ್ಯಕ್ತವಾಗಿತ್ತು.",
+        "lang": "kn",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_mr_000271_1_57_author.png",
+        "instruction": "Provide a case-sensitive transcription of the text in this image. The exact capitalization of every letter is critical. Maintain all original line breaks.",
+        "output": "ॐ श्रीराम गीता",
+        "lang": "mr",
+        "category": "author",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/nt_gu_000572_1_18_first-level-question.png",
+        "instruction": "Imagine you are proofreading a document. Please type out the text from this image block exactly as it is written, including any potential errors in the source, and preserve its line structure.",
+        "output": "22. How did Makhkhansinh react in the end?",
+        "lang": "gu",
+        "category": "first-level-question",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mg_mr_000395_3_paragraph.png",
+        "instruction": "Convert this image block to text. The output must be an exact copy, including all whitespace and newlines.",
+        "output": "आपण मागच्या गोष्टीत बघितलं की छबीची अंधाराची\nभीती घालवण्यासाठी बागुलबुवा छबीला जादूच्या पिशवीत\nघेऊन जातो. छबी अंधारातल्या गमती-जमती बघते आणि\nतिची अंधाराची भीती पळून जाते. पण, आपण या गोष्टीत बघूया\nकी जादूच्या पिशवीबाहेरच्या अंधारात काय गंमत घडणार आहे.",
+        "lang": "mr",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mg_gu_000149_6_paragraph.png",
+        "instruction": "Extract the textual data from this image block for a data pipeline. The output must be a clean, raw string.",
+        "output": "બાંધણીના રંગકામમાં આંબલી, લીંબુ, આંબોળિયાનું પાણી વગેરેના રંગો વપરાતા. હવે સિન્થેટીક રંગો\nઅને રસાયણોનો ઉપયોગ કરાય છે. ગરમ પાણીમાં જેટલી વાર કપડું બોળાય તેમ રંગ નિખરે છે. આજે\nતો બાંધણીના કાપડમાં પ્યોર શિલ્ક, ગજી શિલ્ક, જયોર્જટનો ઉપયોગ થવા લાગ્યો છે.",
+        "lang": "gu",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mn_ta_000766_0_1_folio.png",
+        "instruction": "Do your best to decipher and transcribe the text within the block.",
+        "output": "Digitized By Roja Muthiah Research Library",
+        "lang": "ta",
+        "category": "folio",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/qp_or_000585_1_7_section-title.png",
+        "instruction": "Image to text. Provide a direct transcription.",
+        "output": "ODIA",
+        "lang": "or",
+        "category": "section-title",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/qp_bn_000399_1_17_paragraph.png",
+        "instruction": "This is a pre-cropped image of one text block. Your only task is to accurately transcribe the characters contained *within* this block.",
+        "output": "(ছ) পৃথিবীর সবচেয়ে জনঘনত্বপূর্ণ দেশটির নাম বাংলাদেশ।",
+        "lang": "bn",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/ar_ta_001285_0_5_sub-ordered-list.png",
+        "instruction": "Generate a clean, unformatted text string from the content of this image block. The output should be a direct representation of the source text.",
+        "output": "(அ) அவர் தமது ஒப்புதலளிப்பையோ ஏற்பையோ விற்குநருக்குத்\nதெரிவிக்கிற போது அல்லது அந்த வாணிக நடவடிக்கையை\nஏற்கும் வகையில் பிறசெயல் எதனையும் செய்கிறபோது\nவாங்குநரிடம் சரக்குகளின் மீதுள்ள சொத்துரிமை சென்ற\nடையும் ;\n\n(ஆ) அவர் தமது ஒப்புதலளிப்பையோ, ஏற்பையோ விற்குநருக்குத்\nதெரிவிக்காதிருக்கிறார், ஆனால், ஏற்க மறுக்கும் அறிவிப்பைக்\nகொடுக்காது சரக்குகளை நிறுத்திவைத்துக் கொள்வாராயின்,\nஅப்போது, அந்தச் சரக்குகளைத் திருப்பிக் கொடுப்பதற்குக்\nகாலம் குறிக்கப்பட்டிருப்பின், அந்தக் காலம் கழிவுறுவதன்\nமீதும், காலம் எதுவும் குறிக்கப்பட்டிராதிருப்பின் தகுமான\nகாலம் கழிவுறுவதன் மீதும் வாங்குநரிடம் சரக்குகளின் மீதுள்ள\nசொத்துரிமை சென்றடையும்.",
+        "lang": "ta",
+        "category": "sub-ordered-list",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/tb_kn_000218_0_9_figure-caption.png",
+        "instruction": "For a final review, please provide the plain text content of this image. Ensure the output is a perfect match to the source text and its structure.",
+        "output": "1 ನೆಯದು",
+        "lang": "kn",
+        "category": "figure-caption",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_mr_000355_1_31_author.png",
+        "instruction": "Act as a meticulous data entry clerk. Your task is to transcribe the text from this image block into a plain text string, ensuring every character is correct and line breaks are maintained.",
+        "output": "अतिरिक्त साधन म्हणून उपयोगात",
+        "lang": "mr",
+        "category": "author",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/tb_ta_000273_0_5_paragraph.png",
+        "instruction": "Produce a literal string representation of the text in the supplied image block. All characters and line endings should be preserved.",
+        "output": "கி.பி 1948 இல் இலங்கை சுதந்திரமடைந்ததன் பின்னர், மக்களின் வசதிகளை அல்லது\nபொதுநலனை நோக்காகக் கொண்டு பொதுச் சேவைகள் பல ஆரம்பிக்கப் பட்டன.\nஅவற்றை நடைமுறைப்படுத்துவதற்கு அப்போதைய அதிகாரத்திற்கு வந்த அரசாங்கங்கள்\nஅனைத்தும் பல்வேறு செயற்பாடுகளை மேற்கொண்டன.",
+        "lang": "ta",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_or_000200_0_25_paragraph.png",
+        "instruction": "Convert this image block to text. The output must be an exact copy, including all whitespace and newlines.",
+        "output": "ଏଥିର ହେଲେ ଚାର୍ଯ୍ୟ କରିବା ନାହାର ସ୍ଵଇ ସମ୍ମୁ ସ୍ଥିର ହେବ ନାହିଁ । ଆମ ବ୍ୟ ଗୀ ଶ୍ୱାସର ଦେଶସେଇ ଜର୍ମା ପୁରୁଷ ଏହାର ଅଭ୍ୟୁଟର ସଡ଼ କ  ା କରି ନ ପାର କାହିଁ କାହିଁ ପ୍ରାଣପାତ କରିଛନ୍ତି । ସ୍ବୟଂ ମହାତ୍ମା ଗାନ୍ଧୀ ଏହସର ଘଣାରେ ପଡ଼ଲେ ସେ ମଧ୍ୟ ବେଶ କିଛି କରିପାରନ୍ତେ ନ ହିଁ ଏ କଥା ନଶ୍ଚ । ସୁଧାରେ କାର୍ଯ୍ୟ କରିବାକୁ ହେଲେ ସେଥିପାଇଁ ଅନ , ରୂସ ବାୟୁମଇ ବିଭାଇ । ଓଡ଼ିଶାରେ ସେ ବାୟୁମଣ୍ଡଳ ନାହିଁ । ନ ଥିବାର ଅନେକ କାରଣ ଅଳ୍ପ । ଗାଁ ମଧ୍ୟରୁ ଗୋପୀଏ ବଡ଼ ୯ ଘଣ କର ଖଣ୍ଡେ ତଣ୍ଡ ଅଣି ଏକାଠି ମିଶାଇ ଏ ଗଢ଼ାଯାଇଛି । ସ୍ମୃତିରେ ପ୍ରଦେଶ କାହାକୁ ଶବର ନାହିଁ , କାହାର ବାହିଠାରେ ରଶ୍ଵାସ ନାହିଁ , କେହି କାହାର ଗୁଣ ଦୋଷ ଦେଖିପାରୁ ନାହାନ୍ତି । ସମସ୍ତେ ସମସ୍ତଙ୍କୁ ହାର କରିବାକୁ ଚେଷ୍ଟା କରୁଛରୁ । ସେଥିପାଇ ଅଖିରେ ଧୂଲି ପକାଇବା ରୁପ ସଂସ୍ପର ବ୍ୟବହାର ଦରକାଇ ସତରେ ମଧ୍ୟ ବିରିଯାଉଛୁ ।",
+        "lang": "or",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mn_kn_000302_0_20_footnote.png",
+        "instruction": "Perform OCR on the following image block and return the result as a raw string. Do not alter the content in any way.",
+        "output": "ತೇಲುಗಣ್ಣು ಮತ್ತು ಕಣ್ಣುಚ್ಚುವುದು | ನಾಲಿಗೆ ತೊದಲು ವಿಕೆ | ನುಂಗಲು ಕಷ್ಟವಾಗುವುದು | ಉಸಿರಾಡಲು ಕಷ್ಟವಾಗುವುದು",
+        "lang": "kn",
+        "category": "footnote",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/br_ta_001247_1_11_section-title.png",
+        "instruction": "Extract the raw text content from the provided image block. Do not add any formatting or interpretation.",
+        "output": "ஜெஎஸ்பிள்டபிள்யு நியோஸ்க்வின் அனுகூலங்கள்",
+        "lang": "ta",
+        "category": "section-title",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mn_ta_000356_0_5_page-number.png",
+        "instruction": "Perform OCR on the following image block and return the result as a raw string. Do not alter the content in any way.",
+        "output": "கா உ",
+        "lang": "ta",
+        "category": "page-number",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/sy_te_000155_0_8_paragraph.png",
+        "instruction": "Please provide the text from the image, following these rules:\n1. The transcription must be exact.\n2. All original line breaks must be included.",
+        "output": "బహువచనము పరమగునపుడు కొన్ని శబ్దముల తుది\nవర్ణము లోపించును. చేను-చేలు. పేను-పేలు. మీను-మీలు\nరేయి- రేలు. తాయి-తాలు, వ్రాయి-వ్రాలు. వేయి- వేలు,",
+        "lang": "te",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/qp_pa_000420_1_16_options.png",
+        "instruction": "Imagine you are proofreading a document. Please type out the text from this image block exactly as it is written, including any potential errors in the source, and preserve its line structure.",
+        "output": "a. ਜਪੁਜੀ ਸਾਹਿਬ, ਆਸਾ ਦੀ ਵਾਰ,\nਆਨੰਦ ਸਾਹਿਬ\nb. ਆਨੰਦ ਸਾਹਿਬ, ਜਪੁਜੀ ਸਾਹਿਬ,\nਬਾਰਾਂਮਾਹ ਮਾਝ\nc. ਆਸਾ ਦੀ ਵਾਰ, ਅਕਾਲ ਉਸਤਤਿ,\nਵਣਜਾਰੇ\nd. ਬਾਬਰ ਬਾਣੀ, ਮਾਰੂ ਸੋਹਲੇ, ਸਿੱਧ\nਗੋਸਟਿ",
+        "lang": "pa",
+        "category": "options",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/nv_or_001084_1_4_paragraph.png",
+        "instruction": "This is a pre-cropped image of one text block. Your only task is to accurately transcribe the characters contained *within* this block.",
+        "output": "ଭୁକ୍ତ —ସଖି । ଏହାଙ୍କୁ ଦକ୍ଷିଣ ପ୍ରଦାନ କର",
+        "lang": "or",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_pa_000587_1_49_dateline.png",
+        "instruction": "Generate a clean, unformatted text string from the content of this image block. The output should be a direct representation of the source text.",
+        "output": "ਲੁਧਿਆਣਾ, 7 ਦਸੰਬਰ",
+        "lang": "pa",
+        "category": "dateline",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/qp_hi_000707_0_4_second-level-question.png",
+        "instruction": "Transcribe the handwritten text in this image block. Decipher the writing as accurately as possible and output the resulting text, maintaining the original line breaks.",
+        "output": "'समय का महत्त्व' समझाते हुए छोटे भाई/बहन को पत्र लिखिए।",
+        "lang": "hi",
+        "category": "second-level-question",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mg_or_000055_0_16_paragraph.png",
+        "instruction": "Perform OCR on the following image block and return the result as a raw string. Do not alter the content in any way.",
+        "output": "ମିଲମିଲା । ତା ହାଡ଼ଫୁଟିହେବାର ଚତୁର୍ଥ ଦନ ଦେହରେ ଲକ୍ଷ୍ମଣ ବୋଲ ସାମାନ୍ଯ ଲକ୍ଷ୍ମଣ ଖାଇବାକୁ ଦେଲେ ଦେହମଧ୍ୟରେ ଲୁପ୍ତ ଥବା ଗ୍ରେଗ ବାହାଈ ପଡ଼ବ । ସାଦନରେ ହଳଦୀ , ନମପଦ ଶିଝାଇ ଉକ୍ତ ପାଣିରେ ରେଗାଁକୁ ଗାଧେଇ ଦେବେ । ଦଳରେ ଦୁଇଥର ପାନରସ ଏକ ର୍‌ ମତରେ ମହୁ ମିଶାଇ ଖାଇବେ । ଭାହାଦ୍ଵାର ଥଣ୍ଡାଜ , ର ହେବନାହି । ଅନନ୍ତ- ମୂଳକୁ ର୍ଉଲଧୂଆ ପାଣିରେ ବାଟି ଖାଇବାକୁ ଦେଲେ ହାଡ଼ଫୁଟି ପ୍ରଶମିତ ହୁଏ । ବା ସିପାଣିରେ ମହୁ ମିଶାଇ ଖାଇଲେ ହାଡ଼ଫୁଟି ଜନଜ ଶଙ୍ଖର ଦାହ ବେଦନ ପ୍ରଶମିତ ହୁଏ । କଲର ପନ୍ଦ ରସ ଓ ହରଦ୍ରା ଚୂର୍ଷ ଏକ ମିଶାଇ ଖାଇଲେ ମିଲି ମିଲା ଦୂର ହୁଏ । ହୁଏ । ହାଡ଼— ଫୁ  ିରୁ ମୁକ୍ତ ପାଇବାପାଇଁ ପୁରୁଷ ଲେକର ଡାହାଣ ହାତରେ ଓ ସ୍ତ୍ରୀଲେକର ବାମ ହାତରେ ହରଡ଼ା ମଞ୍ଜି ବାଈବେ । କଣ୍ଟକାଙ୍କର ମୂଲ ସ୍ଫୁରଅଣା ଓ ଗୋଲମଶ୍ରିତ ସ୍ଫୁରଅଣ ଓଜନର ଏକନ୍ଦ ବାଟି ଖାଇଲେ ହାଡ଼ଫୁଟି କମ୍ବା ମିଳିମିଳା । ଆନ୍ଧ୍ରମଣ କରେନାହିଁ ।",
+        "lang": "or",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_ta_000099_0_5_paragraph.png",
+        "instruction": "Image to text. Provide a direct transcription.",
+        "output": "இவ்விதமே மூளைச் சக்தியாலும், தேக சக்தியாலும் வேலை\nசெய்யவும், அனைவருக்கும், தங்களது ஜீவ சக்தியை போஷிக்க\nஇந்தியத் தேயிலை உதவுகின்றது.",
+        "lang": "ta",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/br_hi_000685_0_16_contact-info.png",
+        "instruction": "Transcribe the handwritten text in this image block. Decipher the writing as accurately as possible and output the resulting text, maintaining the original line breaks.",
+        "output": "ब्लॉक ए, क्लेरियन कलेक्शन (कुतुब होटल), शहीद जीत सिंह मार्ग,\nनई दिल्ली 110016, भारत\nटेलीफोन 011 4745 1600 10 | फैक्स 011 4656 0417\nवैबसाईट www.nsdcindia.org | ई-मेल qa@nsdcindia.org",
+        "lang": "hi",
+        "category": "contact-info",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/qp_te_000545_1_15_first-level-question.png",
+        "instruction": "Imagine you are a typist. Create a plain text version of this image block, typing out exactly what you see, including the line breaks.",
+        "output": "54. (A) మన్నుబువ్వ, పెళ్ళానికి ప్రేమలేఖ, ఐదు మాసముల ఇరువది దినములు, ధనత్రయోదశి.\n(B) ధనత్రయోదశి, మన్నుబువ్వ, ఐదు మాసముల ఇరువది దినములు, పెళ్ళానికి ప్రేమలేఖ.\n(C) ధనత్రయోదశి, ఐదు మాసముల ఇరువది దినములు, పెళ్ళానికి ప్రేమలేఖ, మన్నుబువ్వ.\n(D) ధనత్రయోదశి, పెళ్ళానికి ప్రేమలేఖ, మన్నుబువ్వ, ఐదు మాసముల ఇరువది దినములు.",
+        "lang": "te",
+        "category": "first-level-question",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mg_or_000002_0_3_figure-caption.png",
+        "instruction": "Transcribe the handwritten text in this image block. Decipher the writing as accurately as possible and output the resulting text, maintaining the original line breaks.",
+        "output": "FLASH GORDON 3-27",
+        "lang": "or",
+        "category": "figure-caption",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/np_hi_000429_1_62_paragraph.png",
+        "instruction": "Transcribe the text from this image. Avoid common OCR errors like character confusion. Do not add, omit, or rephrase words. Preserve the original line breaks.",
+        "output": "नई दिल्ली। सोलर ग्लास बनाने वाली\nकंपनी बोरोसिल रिन्यूएबल्स का एकीकृत\nशुद्ध लाभ चालू वित्त वर्ष 2022-23 की\nदूसरी तिमाही में 25 प्रतिशत बढ़कर\n30.47 करोड़ रुपये रहा है। मुख्य रूप से\nआय बढ़ने से कंपनी का लाभ बढ़ा है।\nएक साल पहले 2022-23 की इसी\nतिमाही में कंपनी का शुद्ध लाभ 24.19\nकरोड़ रुपये था। बीएसई को भेजी सूचना\nमें कंपनी ने कहा कि उसकी कुल आय\nसितंबर, 2023 को समाप्त तिमाही में\nबढ़कर 406.19 करोड़ रुपये रही जो\nएक साल पहले इसी तिमाही में 171.37\nकरोड़ रुपये थी। कंपनी का खर्च\nआलोच्य तिमाही में 409.74 करोड़ रुपये\nरहा जो एक साल पहले 2022-23 की\nइसी तिमाही में 138.55 करोड़ रुपये था।",
+        "lang": "hi",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/nv_hi_000499_0_3_paragraph.png",
+        "instruction": "Do your best to decipher and transcribe the text within the block.",
+        "output": "हुई! आज वही मेम सर्वस्व की स्वामिनी है। और मैं निकाल\nबाहर किया गया। गाँव में किसी की दाल नहीं गलती। किसान\nलोगों के पास लम्बी-चौड़ी खेती हो गई। वे अब भला कानूनगो\nऔर तहसीलदार की बात क्यों सुनेंगे! अमीरों के यहाँ तो यह सब\nहोता ही रहा है। हम लोग मन्दिर के सेवक हैं। चलने दो।",
+        "lang": "hi",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mn_pa_000520_0_9_section-title.png",
+        "instruction": "Provide a case-sensitive transcription of the text in this image. The exact capitalization of every letter is critical. Maintain all original line breaks.",
+        "output": "ਭਾਗ-ੲ : ਪਾਣੀ ਗੰਦਾ ਕਿਵੇਂ ਹੋ ਜਾਂਦਾ ਹੈ ?",
+        "lang": "pa",
+        "category": "section-title",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mn_pa_000834_0_35_page-number.png",
+        "instruction": "Transcribe this image block to plain text.",
+        "output": "70",
+        "lang": "pa",
+        "category": "page-number",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mn_pa_000289_0_34_figure-caption.png",
+        "instruction": "Image to text. Provide a direct transcription.",
+        "output": "ਸਾਈਡ ਸੜਕ",
+        "lang": "pa",
+        "category": "figure-caption",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/nv_bn_000948_1_3_paragraph.png",
+        "instruction": "What does the text in this image say? Please provide a literal transcription, including all line breaks and punctuation.",
+        "output": "হৃষ্টমতি দুই জন চলিলা ফিরিয়া\nযথায় শিবিরে বীর ধীর দাশরথি।",
+        "lang": "bn",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/mg_bn_000724_0_10_section-title.png",
+        "instruction": "Generate a clean, unformatted text string from the content of this image block. The output should be a direct representation of the source text.",
+        "output": "খুচরো খবর",
+        "lang": "bn",
+        "category": "section-title",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/nv_bn_000106_0_5_paragraph.png",
+        "instruction": "Perform a high-precision transcription of this text. Every character, digit, and punctuation mark must be captured with maximum accuracy, preserving line breaks.",
+        "output": "কুকুর-টানা দুটো গাড়িতে দু'জন লোক উপকূলবর্তী বরফের উপর দিয়ে\nছুটে চলল বরফস্তূপের ভিতর দিয়ে এ'কে বে'কে। সামনের স্লেজগাড়িতে\nবসে বৃদ্ধ মেমীল, দ্বিতীয়টায় রিনতুভগি। মেমীলকে এই মহৎ কাজের জন্য\nবাছাই করা হয় কারণ পর্ষদের আর কোনো কর্মী তার মতো ভালো করে\nকথা বলতে পারে না কিম্বা তার মতো জাঁকালো চেহারার নয়। নাবিকদের\nসঙ্গে কথা বলার সময় নিজের খাতির সে হারাবে না এ বিষয়ে সন্দেহ নেই;\nতাদের ধন্যবাদ দেবার সবচেয়ে ভালো পন্থা সে বের করবে। আর রিনতুভগি,\nযৌথখামারের বিখ্যাত শিকারী ও সবচেয়ে শক্তিশালী লোক, মেমীলের\nসঙ্গে গেল যদি কেনিরি সাহায্য ছাড়া একা নড়াচড়া না করতে পারে।",
+        "lang": "bn",
+        "category": "paragraph",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    },
+    {
+        "image": "temp_images/ar_bn_000691_0_4_section-title.png",
+        "instruction": "Extract the text from this image for archival purposes. The transcription must be a complete and accurate plain text representation of the original.",
+        "output": "অধ্যায় ১৫",
+        "lang": "bn",
+        "category": "section-title",
+        "origin": "/home/oikantik_sarvam_ai/indicdlp-ocr/indicdlp-ocr_v2_formatted"
+    }
+]
